@@ -1,0 +1,24 @@
+[submodule "src/MahShaaban_pcr"]
+	path = src/MahShaaban_pcr
+	url = https://github.com/MahShaaban/pcr.git
+[submodule "src/NoahHenrikKleinschmidt_qpcr"]
+	path = src/NoahHenrikKleinschmidt_qpcr
+	url = https://github.com/NoahHenrikKleinschmidt/qpcr.git
+[submodule "src/PCRuniversum_RDML"]
+	path = src/PCRuniversum_RDML
+	url = https://github.com/PCRuniversum/RDML.git
+[submodule "src/RDML-consortium_rdml-tools"]
+	path = src/RDML-consortium_rdml-tools
+	url = https://github.com/RDML-consortium/rdml-tools.git
+[submodule "src/RDML-consortium_rdmlpython"]
+	path = src/RDML-consortium_rdmlpython
+	url = https://github.com/RDML-consortium/rdmlpython.git
+[submodule "src/neuroeddu_Auto-qPCR"]
+	path = src/neuroeddu_Auto-qPCR
+	url = https://github.com/neuroeddu/Auto-qPCR.git
+[submodule "src/tdsmith_eleven"]
+	path = src/tdsmith_eleven
+	url = https://github.com/tdsmith/eleven.git
+[submodule "src/tomaxiwu-bit_bioeng-qpcr"]
+	path = src/tomaxiwu-bit_bioeng-qpcr
+	url = https://github.com/tomaxiwu-bit/bioeng-qpcr.git

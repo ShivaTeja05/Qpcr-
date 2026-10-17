@@ -1,0 +1,4 @@
+.venv/
+.venv-autoqpcr/
+test-output/
+.DS_Store
